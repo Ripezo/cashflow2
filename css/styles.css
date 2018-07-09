@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900');
+
+#cashflow {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+#cashflow * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#cashflow .dice {
+	background: transparent;
+	border: 1px solid #cccccc;
+	border-radius: 7px;
+	outline: none;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	display: block;
+	width: 50px;
+	height: 50px;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+#cashflow .dice:after {
+	content: attr(data-content);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
