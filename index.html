@@ -9,11 +9,169 @@
 <body>
 	<div id="cashflow">
 		
+		<div id="statements">
+			<div class="container unselectable">
+				<div class="income section">
+					<h2 class="title">Ingresos</h2>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+						<tr>
+							<th width="75%"></th>
+							<th width="25%">Flujo de Caja</th>
+						</tr>
+						<tr class="career">
+							<td>Salario de <strong class="name">[profesión]</strong>:</td>
+							<td>$<span class="salary">[sueldo]</span></td>
+						</tr>
+						<tr>
+							<th>Intereses y Dividendos</th>
+							<th></th>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<th>Bienes Raíces</th>
+							<th></th>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+					</table>
+				</div>
+				<div class="rat-race section">
+					<p class="objetivo">Incrementa la cantidad de ingresos para salir del camino de la rata.</p>
+					<div class="balance">
+						<h2>Total de gastos: $[gasto_total]</h2>
+						<div class="barra">
+							<div class="fill"></div>
+							<div class="ingresos">Passive Income<br>$[ingreso_total]</div>
+						</div>
+					</div>
+				</div>
+				<div class="expenses section">
+					<h2 class="title">Egresos</h2>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+						<tr>
+							<th width="75%">Detalles</th>
+							<th width="25%">Valor</th>
+						</tr>
+						<tr class="tax-value">
+							<td>Impuestos</td>
+							<td>$<span class="value">[impuestos]</span></td>
+						</tr>
+						<tr class="mortgage-payment">
+							<td>Dividendo</td>
+							<td>$<span class="value">[dividendo]</span></td>
+						</tr>
+						<tr class="schoolloan-payment">
+							<td>Cuota de Crédito Universitario</td>
+							<td>$<span class="value">[credito_universitario]</span></td>
+						</tr>
+						<tr class="carloan-payment">
+							<td>Cuota de Crédito Automotriz</td>
+							<td>$<span class="value">[credito_automotriz]</span></td>
+						</tr>
+						<tr class="creditcard-payment">
+							<td>Cuota de Tarjetas de Crédito</td>
+							<td>$<span class="value">[tarjeta_credito]</span></td>
+						</tr>
+						<tr class="retail-payment">
+							<td>Cuota de Tarjetas Comerciales</td>
+							<td>$<span class="value">[tarjeta_comercial]</span></td>
+						</tr>
+						<tr class="other-expenses">
+							<td>Otros gastos mensuales</td>
+							<td>$<span class="value">[otros_gastos]</span></td>
+						</tr>
+						<tr class="child-expenses">
+							<td>Gastos por hijos</td>
+							<td>$<span class="value">[gastos_hijos]</span></td>
+						</tr>
+					</table>
+				</div>
+				<div class="resumen section">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+						<tr class="savings">
+							<th width="75%">Cash:</th>
+							<th width="25%">$<span class="value">[efectivo]</span></th>
+						</tr>
+						<tr class="total-income">
+							<td>Ingreso total:</td>
+							<td>$<span class="value">[ingreso_total]</span></td>
+						</tr>
+						<tr class="total-expenses">
+							<td>Gasto total:</td>
+							<td>$<span class="value">[gasto_total]</span></td>
+						</tr>
+						<tr class="payday">
+							<td>Saldo:</td>
+							<td>$<span class="value">[saldo]</span></td>
+						</tr>
+					</table>
+				</div>
+				<div class="bienes section">
+					<h2 class="title">Bienes</h2>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+						<tr>
+							<th width="75%">Inversiones</th>
+							<th width="25%">Valor</th>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<th>Bienes Raíces</th>
+							<th>Valor</th>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+					</table>
+				</div>
+				<div class="deudas section">
+					<h2 class="title">Deudas</h2>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+						<tr>
+							<th width="75%">Detalle</th>
+							<th width="25%">Valor</th>
+						</tr>
+						<tr class="mortgage-liability">
+							<td>Crédito Hipotecario</td>
+							<td>$<span class="value">[credito_hipotecario]</span></td>
+						</tr>
+						<tr class="school-loan-liability">
+							<td>Crédito Universitario</td>
+							<td>$<span class="value">[credito_cae]</span></td>
+						</tr>
+						<tr class="car-loan-liability">
+							<td>Crédito Automotriz</td>
+							<td>$<span class="value">[credito_automotriz]</span></td>
+						</tr>
+						<tr class="credit-loan-liability">
+							<td>Tarjetas de Crédito</td>
+							<td>$<span class="value">[tarjetas_credito]</span></td>
+						</tr>
+						<tr class="retail-liability">
+							<td>Tarjetas Comerciales</td>
+							<td>$<span class="value">[tarjetas_comerciales]</span></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
 
 		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-		<script type="text/javascript" src="js/CashFlow.js"></script>
+		<script type="text/javascript" src="js/TweenMax.min.js"></script>
+		<script type="text/javascript" src="js/CashFlowServer.js"></script>
+		<script type="text/javascript" src="js/CashFlowClient.js"></script>
+		<script type="text/javascript" src="js/Player.js"></script>
 		<script type="text/javascript" src="js/Utils.js"></script>
-		<script type="text/javascript" src="js/Dice.js"></script>
+		<script type="text/javascript" src="js/views/Dice.js"></script>
+		<script type="text/javascript" src="js/views/FinancialStatements.js"></script>
 		<script type="text/javascript" src="js/scripts.js"></script>
 	</div>
 </body>

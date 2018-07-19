@@ -8,7 +8,6 @@ Dice.prototype.constructor = Dice;
 Dice.prototype.lanzar = function()
 {
 	var launchValue = Utils.getRandomInt(1, 6);
-	console.log(launchValue, (Utils.norm(launchValue, 1, 6) * 100) + '%');
 	this.$dice.attr('data-content', launchValue.toString());
 	return launchValue; 
 };

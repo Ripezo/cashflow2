@@ -50,4 +50,14 @@ Utils.prototype.getRandomBool = function () {
   return Math.random() >= 0.5;
 };
 
+/*
+ * Get a random boolean value.
+ * 
+ * @return {boolean} a random true/false
+ */
+Utils.prototype.currencyNormalize = function (value) {
+	value = parseInt(value) * 650;
+ 	return (value).toFixed(1).replace(/\d(?=(\d{3})+\.)/g, '$&.').slice(0, -2);
+};
+
 window.Utils = new Utils();
