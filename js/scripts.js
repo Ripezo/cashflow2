@@ -6,8 +6,10 @@ $(function() {
 		class: 'boton comenzar',
 		html: 'Comenzar'
 	}).on('click', (event) => {
-		$(event.currentTarget).fadeOut(300);
+		
 		Client.initNewGame();
+
+		$(event.currentTarget).fadeOut(300);
 	});
 
 	window.Server = new CashFlowServer();

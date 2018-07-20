@@ -56,7 +56,7 @@ Utils.prototype.getRandomBool = function () {
  * @return {boolean} a random true/false
  */
 Utils.prototype.currencyNormalize = function (value) {
-	value = parseInt(value) * 650;
+	value = parseInt(value) * 660;
  	return (value).toFixed(1).replace(/\d(?=(\d{3})+\.)/g, '$&.').slice(0, -2);
 };
 
