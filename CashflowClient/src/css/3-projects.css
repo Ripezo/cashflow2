@@ -1,0 +1,22 @@
+.section-title {
+	font-size: 14px;
+	margin: 0 0 10px 0;
+}
+
+#projectList {
+	list-style: none;
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+#projectList li .project-button {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background: transparent;
+	outline: none;
+}

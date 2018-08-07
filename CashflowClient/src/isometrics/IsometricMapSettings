@@ -1,0 +1,3 @@
+exports.layerTitlePrefix = 'Nivel ';
+exports.tileSize = 200;
+exports.debuggerMode = true;
