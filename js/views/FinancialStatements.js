@@ -1,4 +1,4 @@
- class FinancialStatements
+class FinancialStatements
 {
 	constructor (cashFlowClient)
 	{

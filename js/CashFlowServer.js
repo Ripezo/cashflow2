@@ -5,6 +5,12 @@ class CashFlowServer {
 		console.log('new CashFlowServer();');
 		this.careers = [];
 		this.loadCareers();
+
+		this.players = [{
+			username: 'Ripezo'
+		}];
+
+		this.rooms = [];
 	}
 
 	connect(userData)
@@ -27,6 +33,16 @@ class CashFlowServer {
 			this.careers = data.careers.careerData;
 			console.log('Se cargó un total de ' + this.careers.length + ' profesiones.');
 		});
+	}
+
+	getPlayerByName (playerName)
+	{
+		
+	}
+
+	registerLiability (liability, player)
+	{
+
 	}
 };
 
