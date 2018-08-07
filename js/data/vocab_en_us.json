@@ -1,0 +1,634 @@
+{
+  "vocab": {
+    "ok": {
+      "copy": "OK"
+    },
+    "collect": {
+      "copy": "COLLECT"
+    },
+    "borrowMobile": {
+      "copy1": "Enter borrow amount",
+      "copy2": "amount to borrow"
+    },
+    "repayMobile": {
+      "copy1": "Enter repay amount",
+      "copy2": "amount to repay",
+      "copy3": " Total loan amount $"
+    },
+    "sharedOpp": {
+      "copy": "SHARED OPPORTUNITY"
+    },
+    "lobbyconnectionlost": {
+      "copy1": "Sorry, your connection appears to have been lost.",
+      "copy2": "Connection Lost"
+    },
+    "timerSkip": {
+      "copy": "'s turn has been skipped due to inactivity."
+    },
+    
+    "timerLeave": {
+      "copy": " is being kicked from the game due to inactivity."
+    },
+    "dollar": {
+      "copy": "$"
+    },
+    "roll": {
+      "copy": "ROLL"
+    },
+    "requestTime": {
+      "copy": "'s has requested more time."
+    },
+    "queueText": { 
+      "copy": "Available at the start of your next turn"
+    },
+    "rolled": {
+      "copy": " rolled a "
+    },
+    "clickToChat": {
+      "copy": "Click here to chat"
+    },
+    "x": {
+      "copy": "x"
+    },
+    "amount": {
+      "copy": "Amount: $"
+    },
+    "player": {
+      "copy": "Player "
+    },
+    "closed": {
+      "copy": "Closed"
+    },
+    "purchased": {
+      "copy": " Purchased a deal for $"
+    },
+    "buy": {
+      "copy": "BUY"
+    },
+    "empty": {
+      "copy": "--empty--"
+    },
+    "yes": {
+      "copy": "YES"
+    },
+    "no": {
+      "copy": "NO"
+    },
+    "sell": {
+      "copy": "SELL"
+    },
+    "pass": {
+      "copy": "PASS"
+    },
+    "borrow": {
+      "copy": "BORROW"
+    },
+    "createNew": {
+      "copy": "+ Create New Game"
+    },
+    "plussign": {
+      "copy": "+"
+    },
+    "cancel": {
+      "copy": "CANCEL"
+    },
+    "quit": {
+      "copy": "QUIT"
+    },
+    "chatTitle": {
+      "copy": "CHAT LOG"
+    },
+    "pay": {
+      "copy": "PAY"
+    },
+    "done": {
+      "copy": "DONE"
+    },
+    "join": {
+      "copy": "JOIN"
+    },
+    "leftgame": {
+      "copy": "Left Game"
+    },
+    "donate": {
+      "copy": "DONATE"
+    },
+    "credit": {
+      "copy": "CREDIT"
+    },
+    "loan": {
+      "copy": "LOAN"
+    },
+    "back": {
+      "copy": "BACK"
+    },
+    "cost": {
+      "copy": "Cost: $"
+    },
+    "boatLaon": {
+      "copy": " took a boat loan for $17,000."
+    },
+    "creditLoan": {
+      "copy": " took a credit card loan for $4,000."
+    },
+    "sellamount": {
+      "copy": "Sell amount: $"
+    },
+    "cashflow": {
+      "copy": "Cash flow: $"
+    },
+    "downpay": {
+      "copy": "Down pay: $"
+    },
+    "return": {
+      "copy": "Possible return: $"
+    },
+    "range": {
+      "copy": "Trade range:"
+    },
+    "shares": {
+      "copy": "Shares owned:"
+    },
+    "loanamount": {
+      "copy": "Loan amount: $"
+    },
+    "lobbyNotification": {
+      "password": "Incorrect Password",
+      "gameFull": "Game is Full",
+      "kicked": "Kicked Out Due to Inactivity",
+      "connectionLost": "Connection Lost: Refresh Browser",
+      "gameMissing": "Game No Longer Available",
+      "nameInUse": "Game Name Already in Use"
+    },
+    "paydayCard": {
+      "title": "PAYDAY!",
+      "copy1": "Add PAYDAY to your cash on hand!"
+    },
+    "losecashCard": {
+      "tax": "AUDIT!",
+      "lawsuit": "LAWSUIT!!",
+      "divorce": "DIVORCE!",
+      "copy1": "Lose half of your cash!",
+      "copy2": "Lose all of your cash!"
+    },
+    "dreamCard": {
+      "copy1": "Achieve Your Dream!",
+      "copy2": "Not Enough cash to achieve your dream.",
+      "copy3": "This is another player's dream. The cost of their dream has increased by 100%.",
+      "copy4": "This is not your dream."
+    },
+    "cashflowDayCard": {
+      "title": "CASHFLOW DAY!",
+      "copy1": "Add passive income to your cash on hand!"
+    },
+    "charityCard": {
+      "title": "GIVE TO CHARITY?",
+      "copy1": "For $100,000 you may roll 1, 2, or 3 die on each turn.",
+      "copy2": "Donate $100,000",
+      "copy3": "Donate 10% of your total income to roll 1 or 2 die over your next 3 turns.",
+      "copy4": "Donate $",
+      "copy5": "You do not have 10% of your total income and are unable to donate to charity."
+    },
+    "charityChoiceCard": {
+      "title": "CHARITY CHOICE!",
+      "copy1": "You gave to charity, choose 1, 2, or 3 die to roll.",
+      "copy2": "You gave to charity, choose 1 or 2 die to roll.",
+      "copy3": "You have ",
+      "copy4": " more charity rolls left."
+    },
+    "babyCard": {
+      "title1": "CHILD LIMIT REACHED",
+      "copy1": "There is a limit of three children per player.",
+      "title2": "NEW BABY!",
+      "copy2": "Congratulations! One child has been added to your dependents.",
+      "copy3": "Child Expenses will be increased by $"
+    },
+    "downsizeCard": {
+      "title1": "DOWNSIZED!",
+      "copy1": "Pay $",
+      "copy2": "Pay a full set of your expenses and lose two turns and charity."
+    },
+    "doodadCard": {
+      "copy1": "Pay $",
+      "copy2": "(if you have a child)"
+    },
+    "dealCard": {
+      "title": "DEAL OPPORTUNITY",
+      "copy1": "Which deal type do you want?",
+      "small": "Small deals cost $5,000 or less.",
+      "big": "Big deals cost $6,000 or more.",
+      "copy2": "SMALL",
+      "copy3": "BIG"
+    },
+    "investmentCard": {
+      "copy1": "This investment has already been purchased and is no longer available."
+    },
+    "investmentRollCard": {
+      "copy1": "You rolled a ",
+      "copy2": "You gain $",
+      "copy3": "cash flow."
+    },
+    "stockCard": {
+      "copy1": "You rolled a ",
+      "copy2": "You gain $",
+      "copy3": "cash flow."
+    },
+    "stockSpecialCard": {
+      "copy1": "Split 2 for 1",
+      "copy2": "Reverse split 1 for 2"
+    },
+    "stockBuyCard": {
+      "copy1": "Buy shares: ",
+      "copy2": "For:"
+    },
+    "stockSellCard": {
+      "copy1": "Sell shares: ",
+      "copy2": "For:"
+    },
+    "loanCard": {
+      "title": "TAKE OUT A LOAN",
+      "copy1": "Not enough funds.",
+      "copy2": "Take a loan of $",
+      "copy3": " with a Monthly Payment of $"
+    },
+    "marketCard": {
+      "copy1": "Select an Asset on your Statement Sheet to take this deal.",
+      "copy2": "You have no assets that match this market card."
+    },
+    "marketSellCard": {
+      "title": "SELL - ",
+      "copy1":  "Sell Cost + Original Cost - Mortgage",
+      "copy2": " + ",
+      "copy3": " - ",
+      "copy4": " = $",
+      "copy5": "Sell Cost * Amount Owned - Mortgage"
+    },
+    "endCard": {
+      "title": "FINISH YOUR TURN",
+      "copy1": "Before you end your turn, review your financial statement. You may also use this time to repay liabilities or borrow money.",
+      "copy2": "Before you end your turn, you may review your financial statement.",
+      "button": "END TURN"
+    },
+    "payoffLoanCard": {
+      "title": "PAY OFF LOAN",
+      "copy1": "Select a liability on your statement sheet to repay your debt.",
+      "copy2": "Input an amount to repay your Loan.",
+      "copy3": "Payments must be in multiples of $1,000",
+      "copy4": "You do not have enough cash to make a payment on this loan.",
+      "copy5": "Payments must be in multiples of $1000.",
+      "copy6": "Pay off your loan.",
+      "copy7": "You do not have enough cash to pay off this loan."
+    },
+    "borrowCard": {
+      "title": "TAKE OUT A LOAN",
+      "copy1": "Loans must be in multiples of $1,000 at 10% interest per month."
+    },
+    "bankruptCard": {
+      "title": "YOU ARE BANKRUPT!",
+      "copy1": "Your Cash Flow is negative: $",
+      "copy2": "To exit bankruptcy you need positive Cash Flow.",
+      "copy3": "1. Sell assets for 1/2 the down payment.",
+      "copy4": "2. Pay off debt.", 
+      "copy5": "3. Pay down your loan amount."
+    },
+    "bankruptSellCard": {
+      "title": "SELL AN ASSET"
+    },
+    "bankruptPayCard": {
+      "title": "PAY OFF LOAN",
+      "copy1": "Input an amount to repay your Loan.",
+      "copy2": "Payments must be in multiples of $1,000",
+      "copy3": "Pay off your loan.",
+      "copy4": "You do not have enough cash to pay off this loan."
+    },
+    "bankruptHalveCard": {
+      "title": "YOU ARE BANKRUPT!",
+      "copy1": "You have no assets to sell and you do not have a positive cash flow.",
+      "copy2": "1/2 your car loans, credit cards, and retail debt have been wiped out along with 1/2 of their payments."
+    },
+    "bankruptLoseCard": {
+      "title": "YOU LOSE!",
+      "copy1": "Your monthly cash flow is negative. You are officially out of the game."
+    },
+    "bankruptCompleteCard": {
+      "title": "NO LONGER BANKRUPT!",
+      "copy1": "Your cash flow is greater than your expenses and you are no longer bankrupt.",
+      "copy2": "Be careful not to let your expenses exceed your cash flow."
+    },
+    "everyoneBankruptCard": {
+      "title": "EVERYONE IN THE GAME HAS GONE BANKRUPT. GAME OVER."
+    },
+    "quitCard": {
+      "title": "ARE YOU SURE YOU WANT TO QUIT?"
+    },
+    "timerCard": {
+      "title": "DO YOU NEED MORE TIME?"
+    },
+    "winDreamCard": {
+      "title": " WON THE GAME!",
+      "copy1": " won the game by achieving their dream!"
+    },
+    "winPassiveCard": {
+      "title": " WON THE GAME!",
+      "copy1": " won the game by raising their passive income over $50,000!"
+    },
+    "enterFastTrackCard": {
+      "title": "CONGRATULATIONS!",
+      "title2": "YOU ARE OUT OF THE RAT RACE!",
+      "copy1": " has built up their passive income to be greater than their total expenses.",
+      "copy2": "They have entered the fast track.",
+      "copy3": "Receive 100x your passive income. Purchase your dream or increase your CASHFLOW Day Income by $50,000 to win the game."
+    },
+    "skipTurnCard": {
+      "title": "TURN SKIPPED!",
+      "copy1": " turn has been skipped."
+    },
+    "dreamopportunity": {
+      "copy": " had a dream opportunity!"
+    },
+    "isbankrupt": {
+      "copy": " is bankrupt!"
+    },
+    "receivedpayday": {
+      "copy": " received a PAYDAY!"
+    },
+    "hadcashflow": {
+      "copy": " had a CASHFLOW day!"
+    },
+    "wasdownsized": {
+      "copy": " was downsized and paid $"
+    },
+    "wasdivorced": {
+      "copy": " was divorced."
+    },
+    "wasaudited": {
+      "copy": " was audited."
+    },
+    "wassued": {
+      "copy": " was sued."
+    },
+    "ftcharity": {
+      "copy": " gave $100,000 to charity."
+    },
+    "gavecharity": {
+      "copy1": " gave $",
+      "copy2": " to charity."
+    },
+    "passcharity": {
+      "copy": " passed on a charity."
+    },
+    "hadbaby": {
+      "copy": " had a baby."
+    },
+    "familylimit": {
+      "copy": " already reached the limit for family size."
+    },
+    "cfstartup": {
+      "copy": " increased their cash flow on their startup by "
+    },
+    "soldstartup": {
+      "copy": " sold their startup for $"
+    },
+    "inflation": {
+      "copy1": "Inflation hit, ",
+      "copy2": " lost a property."
+    },
+    "soldprop": {
+      "copy": " sold a property for $"
+    },
+    "soldpropbrother": {
+      "copy": " sold a property to their brother."
+    },
+    "renatlfee": {
+      "copy1": " was forced to pay a fee of $",
+      "copy2": " on their rental property."
+    },
+    "8plex": {
+      "copy": " on their 8 Plex."
+    },
+    "passdeal": {
+      "copy": " passed on a deal."
+    },
+    "faildeal": {
+      "copy": " failed on a deal roll."
+    },
+    "paydoodad": {
+      "copy1": " paid $",
+      "copy2": " on a doodad."
+    },
+    "payloan": {
+      "copy1": " paid back their loan for $",
+      "copy2": " paid off a loan of $"
+    },
+    
+    "takeLoan": {
+      "copy1": " took out a loan for $",
+      "copy2": "."
+    },
+    "earndeal": {
+      "copy1": " earned $",
+      "copy2": " on a deal.",
+      "copy3": " spent $"
+    },
+    "nobankrupt": {
+      "copy": " is no longer bankrupt!"
+    },
+    "bankruptlose": {
+      "copy": " has gone bankrupt and is out of the game."
+    },
+    "wongame": {
+      "copy": " won the game!"
+    },
+    "host": {
+      "copy": "You are now the host!"
+    },
+    "joined": {
+      "copy": "You joined: "
+    },
+    "playerjoined": {
+      "copy": "A player has joined your game!"
+    },
+    "playerleft": {
+      "copy": "A player has left your game."
+    },
+    "turn": {
+      "copy": "'s turn."
+    },
+    "skipturndownsize": {
+      "copy1": " 's turn has been skipped due to being downsized." ,
+      "copy2": " turns left to go.",
+      "copy3": " turn left to go."
+    },
+    "skipturnbankrupt": {
+      "copy": " 's turn has been skipped due to being bankrupt. "
+    },
+    "charitychoice": {
+      "copy": " had a charity choice."
+    },
+    "drew": {
+      "copy1": " drew a ",
+      "copy2": " card."
+    },
+    "escaperace": {
+      "copy": " escaped the Rat Race with a buyout of $"
+    },
+    "header": {
+      "bankrupt": "Bankrupt: ",
+      "downsized": "Downsize: ",
+      "takingturn": "Taking Turn",
+      "goal": "Goal",
+      "passive": "Passive Income",
+      "gameover": "Game Over",
+      "wingame": "Won Game",
+      "fasttrack": "Fast Track",
+      "expenses": "Total Expenses"
+    },
+    "clickanywhere": {
+      "copy": "Click Anywhere to Continue",
+      "clickanywheremobile": "Tap Anywhere to Continue"
+    },
+    "modeselect": {
+      "title": "Select a Game Mode",
+      "passplay": "Pass and Play",
+      "online": "Online"
+    },
+    "lobby": {
+      "title": "Lobby",
+      "titlemobile": "Game Setup",
+      "setuptitle": "Choose Number of Players",
+      "begin": "Begin Game",
+      "waiting": " Not Ready",
+      "players": " Players",
+      "host": "Waiting...",
+      "exit": "Exit Game",
+      "create": "Create Game",
+      "cashflow": "CF",
+      "back": "Back",
+      "ready": "Ready",
+      "clickready": "Click When Ready",
+      "clickreadymobile": "Tap When Ready",
+      "setup": "Set Up Your Game",
+      "remote": "Remote",
+      "human": "Human",
+      "bot": "Bot",
+      "open": "Open",
+      "instructions1": "1. Change game name if desired.",
+      "instructions2": "2. Set up a password if you want a private game.",
+      "instructions3": "3. Select number of players by clicking the player boxes.",
+      "instructions3mobile": "3. Select number of players by tapping the player boxes.",
+      "instructions4": "4. Press \"Create Game\" when you are ready.",
+      "instructions4mobile": "4. Tap \"Create Game\" when you are ready.",
+      "instructionshost1": "1. Change your name if desired.",
+      "instructionshost2": "2. Activate bots by clicking the plus in player slots.",
+      "instructionshost3": "2. Wait for other players to join and confirm they are ready.",
+      "instructionshost4": "3. Press \"Begin Game\".",
+      "instructionshost4mobile": "3. Tap \"Begin Game\".",
+      "instructionsguest1": "1. Change your name if desired.",
+      "instructionsguest2": "2. Click Ready when you are ready to begin.",
+      "instructionsguest2mobile": "2. Tap Ready when you are ready to begin.",
+      "instructionsguest3": "3. Wait for other players to join and confirm they are ready.",
+      "instructionsguest4": "4. Wait for host to begin game.",
+      "instructionslocal1": "1. Activate players by clicking the plus in the player slots.",
+      "instructionslocal1mobile": "1. Activate players by tapping the plus in the player slots.",
+      "instructionslocal2": "2. Activate bots by clicking again in the same player slot.",
+      "instructionslocal2mobile": "2. Activate bots by tapping again in the same player slot.",
+      "instructionslocal3": "3. Change player names if desired.",
+      "instructionslocal4": "4. Press \"Begin Game\".",
+      "instructionslocal4mobile": "4. Tap \"Begin Game\".",
+      "password": "Password:",
+      "name": "Name:",
+      "feedback": "Choose to create a new game or join any of the existing games from the list below.",
+      "nogames": "There are no existing games. Start a new game.",
+      "refresh": "Refresh game list"
+      
+    },
+    "multiplayerlobby": {
+      "title": "Select a Game",
+      "connecting": "Loading Games...",
+      "begin": "Begin Game",
+      "exit": "Exit Game",
+      "create": "Create Game",
+      "cashflow": "CASHFLOW",
+      "back": "Back",
+      "setup": "Set Up Your Game",
+      "remote": "Remote",
+      "human": "Human",
+      "bot": "Bot",
+      "open": "Open"
+    },
+    "startTurnCard": {
+      "copy1": "Before you start your turn, review your financial statement. You may also use this time to repay liabilities or borrow money.",
+      "copy2": "When you are ready, roll the die and take your turn.",
+      "copy3": "When you are ready, roll 1, 2 or 3 die and take your turn.",
+      "copy35":"You are able to roll multiple die because you paid for charity.",
+      "copy4": "When you are ready, roll 1 or 2 die and take your turn.",
+      "copy45": "You are able to roll multiple die because you paid for charity.",
+      "copy5": "DICE",
+      "copy6": "ROLL",
+      "copy7": "Before you start your turn, you may review your financial statement."
+    },
+    "startGameCard": {
+      "title": " CHOOSE YOUR DREAM",
+      "copy1": "You are a ",
+      "copy2": "Your starting salary is $",
+      "copy3": "You have $",
+      "copy4": " in savings",
+      "copy5": "That means your starting cash is $",
+      "copy6": "You are an ",
+      "logMessage": " is selecting their dream.",
+      "button": "CHOOSE"
+    },
+    "statementWidget": {
+      "dreambuy": "To win, buy your Dream!",
+      "or": "-OR-",
+      "cashflowwin": "To win, increase CASHFLOW Day Income!",
+      "goal": "Increase Passive Income to escape the Rat Race.",
+      "totalexpenses": "Total Expenses:",
+      "incomegoal": "Income Goal: $",
+      "cash": "Cash: $",
+      "cfincome": "CASHFLOW Day Income: $",
+      "cfincomerecord": "CASHFLOW Day Income Record",
+      "totalincome": "Total Income:",
+      "cashnosign": "Cash:",
+      "payday": "PAYDAY: ",
+      "income": "Income",
+      "expenses": "Expenses",
+      "borrow": "Borrow",
+      "repay": "Repay"
+    },
+    "statementList": {
+      "cashflow": "Cash Flow",
+      "salary": " Salary:",
+      "taxes": " Taxes:",
+      "homemortgage": "Home Mortgage:",
+      "homepayment": "Home Mortgage Payment:",
+      "schoolloan": "School Loans:",
+      "schoolpayment": "School Loan Payment:",
+      "car": "Car Loans:",
+      "carpayment": "Car Loan Payment:",
+      "credit": "Credit Cards:",
+      "creditpayment": "Credit Card Payment:",
+      "retail": "Retail Debt:",
+      "retailpayment": "Retail Payment:",
+      "boat": "Boat Debt:",
+      "boatpayment": "Boat Payment:",
+      "loan": "Loan:",
+      "loanpayment": "Loan Payment:",
+      "otherexpenses": "Other Expenses:",
+      "childexpenses": "Child Expenses (",
+      "interests": "Interest/Dividends",
+      "stocks": "Stocks/Funds/CDs",
+      "costshare": "Cost/Share",
+      "shareof": " share of ",
+      "sharesof": " shares of ",
+      "realestate": "Real Estate/Business",
+      "cost": "Cost",
+      "liability": "Liability",
+      "duplex": "DUPLEX",
+      "units": " units"
+    },
+    "splashWidget": {
+      "loading": "Loading Data ..."
+    }
+  }
+}

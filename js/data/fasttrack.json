@@ -1,0 +1,365 @@
+{
+  "fasttrack": {
+    "spaces": [
+      {
+        "reward": 500000,
+        "cost": 25000,
+        "id": 23,
+        "copy1": "Buy 250,000 shares at 10 cents/share. If you roll a 6 on one die, shares go to $2/share - get $500,000 cash from bank. Roll less than 6, get $0.",
+        "title": "SOFTWARE CO. IPO",
+        "rollmin": 6,
+        "type": "investment",
+        "stock": "true",
+        "icon": "software_co._ipo"
+      },
+      {
+        "id": 22,
+        "title": "7 WONDERS OF THE WORLD",
+        "copy1": "Go by plane, boat, bicycle, camel, canoe & limo to the 7 Wonders of the World. First class luxury all the way!",
+        "type": "dream",
+        "icon": "7_wonders_of_the_world",
+        "cost": 200000
+      },
+      {
+        "id": 20,
+        "title": "RESEARCH CENTER FOR CANCER AND AIDS",
+        "copy1": "Your money brings together top researchers & doctors in one place, dedicated to eliminating these two diseases.",
+        "type": "dream",
+        "icon": "research_center_for_cancer_and_aids",
+        "cost": 225000
+      },
+      {
+        "cost": 200000,
+        "id": 19,
+        "copy1": "+$8,000/mo Cash flow 48% Cash-on-cash return",
+        "title": "T-SHIRT STORES",
+        "cashflow": 8000,
+        "type": "investment",
+        "copy2": "(5 OUTLETS)",
+        "icon": "t_shirt_stores"
+      },
+      {
+        "id": 18,
+        "title": "DINNER WITH THE PRESIDENT",
+        "copy1": "Buy a table for 10 friends to dine with the President at a gala ball for visiting dignitaries from around the world.",
+        "type": "dream",
+        "icon": "dinner_with_the_president",
+        "cost": 100000
+      },
+      {
+        "cost": 300000,
+        "id": 17,
+        "copy1": "+$75,000/mo Cash flow if you roll 4 or higher on one die, or else $0 Cash flow",
+        "title": "RUSSIAN OIL DEAL",
+        "rollmin": 4,
+        "cashflow": 75000,
+        "type": "investment",
+        "icon": "russian_oil_deal"
+      },
+      {
+        "id": 16,
+        "title": "HELI-SKI THE SWISS ALPS",
+        "copy1": "A winter of helicopter skiing by day and playing at the glamorous hot spots at night. A medieval castle is your accommodation.",
+        "type": "dream",
+        "icon": "heli_ski_the_swiss_alps",
+        "cost": 150000
+      },
+      {
+        "cost": 150000,
+        "id": 15,
+        "title": "AUTO REPAIR SHOP",
+        "copy1": "+$6,000/mo Cash flow 48% Cash-on-cash return",
+        "cashflow": 6000,
+        "type": "investment",
+        "icon": "auto_repair_shop"
+      },
+      {
+        "id": 14,
+        "title": "GIFT OF FAITH",
+        "copy1": "Your religious organization is growing by leaps and bounds. New buildings are needed.",
+        "type": "dream",
+        "icon": "gift_of_faith",
+        "cost": 175000
+      },
+      {
+        "cost": 250000,
+        "id": 13,
+        "copy1": "+$10,000/mo Cash flow 48% Cash-on-cash return",
+        "title": "BEAUTY SALONS",
+        "cashflow": 10000,
+        "type": "investment",
+        "copy2": "(3 SHOPS)",
+        "icon": "beauty_salons"
+      },
+      {
+        "id": 12,
+        "title": "RUN FOR MAYOR",
+        "copy1": "Your financial expertise spurs masses of people to beg you to lead the city. You run and, of course, win. This is the start of your Presidential race.",
+        "type": "dream",
+        "icon": "run_for_mayor",
+        "cost": 125000
+      },
+      {
+        "cost": 300000,
+        "id": 11,
+        "copy1": "+$10,000/mo Cash flow 40% Cash-on-cash return",
+        "title": "CHICKEN FRANCHISE",
+        "cashflow": 10000,
+        "type": "investment",
+        "copy2": "(2 OUTLETS)",
+        "icon": "chicken_franchise"
+      },
+      {
+        "id": 10,
+        "title": "PARK NAMED AFTER YOU",
+        "copy1": "Tear down abandoned warehouse and build a new recreational park. Donate police sub-station for park safety.",
+        "type": "dream",
+        "icon": "park_named_after_you",
+        "cost": 225000
+      },
+      {
+        "id": 8,
+        "title": "PRIVATE FISHING CABIN ON A MONTANA LAKE",
+        "copy1": "Fish from the dock of this remote cabin. Enjoy 6 months of solitude. Use of float plane included.",
+        "type": "dream",
+        "icon": "private_fishing_cabin_on_a_montana_lake",
+        "cost": 100000
+      },
+      {
+        "cost": 150000,
+        "id": 7,
+        "copy1": "+$25,000/mo Cash flow if you roll 3 or higher on one die, or else $0 Cash flow",
+        "title": "BUY A GOLD MINE",
+        "rollmin": 3,
+        "cashflow": 25000,
+        "type": "investment",
+        "icon": "buy_a_gold_mine"
+      },
+      {
+        "id": 6,
+        "title": "CANNES FILM FESTIVAL",
+        "copy1": "Party with the stars! Tour France, plus one week in Cannes rubbing elbows with celebrities. You even land a starring role!",
+        "type": "dream",
+        "icon": "cannes_film_festival",
+        "cost": 125000
+      },
+      {
+        "cost": 150000,
+        "id": 4,
+        "title": "TRUCK PARTS MAKER",
+        "copy1": "+$5,000/mo Cash flow 40% Cash-on-cash return",
+        "cashflow": 5000,
+        "type": "investment",
+        "icon": "truck_parts_maker"
+      },
+      {
+        "id": 3,
+        "title": "YACHT RACING",
+        "copy1": "You and your crew fly to Perth, Australia. Spend one week racing a 12-meter against the fastest boats in the world.",
+        "type": "dream",
+        "icon": "yacht_racing",
+        "cost": 150000
+      },
+      {
+        "cost": 200000,
+        "id": 2,
+        "title": "HEAT AND A/C SERVICE",
+        "copy1": "+$10,000/mo Cash flow 60% Cash-on-cash return",
+        "cashflow": 10000,
+        "type": "investment",
+        "icon": "heat_and_a_c_service"
+      },
+      {
+        "id": 0,
+        "title": "STOCK MARKET FOR KIDS",
+        "copy1": "Fund a business and investment school for young capitalists, teaching them the basics of business. School includes a mini stock exchange run by the students.",
+        "type": "dream",
+        "icon": "stock_market_for_kids",
+        "cost": 125000
+      },
+      {
+        "cost": 120000,
+        "id": 47,
+        "title": "QUICK FOOD MARTS",
+        "copy1": "+$5,000/mo Cash flow 50% Cash-on-cash return",
+        "cashflow": 5000,
+        "type": "investment",
+        "copy2": "(3 STORES)",
+        "icon": "quick_food_marts"
+      },
+      {
+        "id": 46,
+        "title": "ANCIENT ASIAN CITIES",
+        "copy1": "A private plane and guide take you and 5 friends to the most remote spots of Asia... where no tourists have gone before.",
+        "type": "dream",
+        "icon": "ancient_asian_cities",
+        "cost": 150000
+      },
+      {
+        "cost": 300000,
+        "id": 45,
+        "title": "BURGER FRANCHISE",
+        "copy1": "+$9,500/mo Cash flow 38% Cash-on-cash return",
+        "cashflow": 9500,
+        "type": "investment",
+        "icon": "burger_franchise"
+      },
+      {
+        "id": 44,
+        "title": "PRO TEAM BOX SEATS",
+        "copy1": "License a 12 person private skybox booth with food and beverage service at your favorite team's stadium.",
+        "type": "dream",
+        "icon": "pro_team_box_seats",
+        "cost": 200000
+      },
+      {
+        "cost": 300000,
+        "id": 43,
+        "title": "FAMILY RESTAURANT CHAIN",
+        "copy1": "+$14,000/mo Cash flow 56% Cash-on-cash return",
+        "cashflow": 14000,
+        "type": "investment",
+        "icon": "family_restaurant_chain"
+      },
+      {
+        "id": 42,
+        "title": "BUY A FOREST",
+        "copy1": "Stop the loss of ancient trees. Donate 1,000 acres of forest and create a nature walk for all to enjoy.",
+        "type": "dream",
+        "icon": "buy_a_forest",
+        "cost": 250000
+      },
+      {
+        "id": 40,
+        "title": "AFRICAN PHOTO SAFARI",
+        "copy1": "Take 6 friends on a wild safari photographing the most exotic animals in the world. Enjoy 5-star luxury in your tent.",
+        "type": "dream",
+        "icon": "african_photo_safari",
+        "cost": 100000
+      },
+      {
+        "cost": 225000,
+        "id": 39,
+        "copy1": "+$50,000/mo Cash flow if you roll 4 or higher on one die, or else 0% Cash flow.",
+        "title": "COOKWARE INFOMERCIAL",
+        "rollmin": 4,
+        "cashflow": 50000,
+        "type": "investment",
+        "icon": "cookware_infomercial"
+      },
+      {
+        "id": 38,
+        "title": "MINI-FARM IN THE CITY",
+        "copy1": "Create a hands-on farm eco-system for city kids to learn and care for animals and plants.",
+        "type": "dream",
+        "icon": "mini_farm_in_the_city",
+        "cost": 150000
+      },
+      {
+        "id": 36,
+        "title": "CRUISE THE MEDITERRANEAN",
+        "copy1": "Visit small harbors in Italy, France, and Greece for a month with 12 friends on your private yacht.",
+        "type": "dream",
+        "icon": "cruise_the_mediterranean",
+        "cost": 100000
+      },
+      {
+        "cost": 100000,
+        "id": 35,
+        "copy1": "+$3,000/mo Cash flow 36% Cash-on-cash return",
+        "title": "DRY CLEANER",
+        "cashflow": 3000,
+        "type": "investment",
+        "copy2": "(2 STORES)",
+        "icon": "dry_cleaner"
+      },
+      {
+        "id": 34,
+        "title": "CAPITALISTS' PEACE CORPS",
+        "copy1": "Set up entrepreneurial business schools in 3rd world nations. Instructors are business people donating their knowledge & time.",
+        "type": "dream",
+        "icon": "capitalists'_peace_corps",
+        "cost": 200000
+      },
+      {
+        "reward": 500000,
+        "cost": 50000,
+        "id": 33,
+        "copy1": "Buy 500,000 shares at 10 cents/share. If you roll a 5 or 6 on one die, shares go to $1/share - get $500,000 cash from the bank. Roll less than 5, get $0.",
+        "title": "BIO-TECH CO. IPO",
+        "rollmin": 5,
+        "type": "investment",
+        "stock": "true",
+        "icon": "bio_tech_co._ipo"
+      },
+      {
+        "id": 32,
+        "title": "SOUTH SEA ISLAND FANTASY",
+        "copy1": "Pampered in luxury for two full months. Relax, unwind in warm waters, deserted beaches, and romantic nights.",
+        "type": "dream",
+        "icon": "south_sea_island_fantasy",
+        "cost": 100000
+      },
+      {
+        "cost": 200000,
+        "id": 31,
+        "title": "200 UNIT MINI STORAGE",
+        "copy1": "+$6,000/mo Cash flow 36% Cash-on-cash return",
+        "cashflow": 6000,
+        "type": "investment",
+        "icon": "200_unit_mini_storage"
+      },
+      {
+        "id": 30,
+        "title": "A KID'S LIBRARY",
+        "copy1": "Add a wing to your city's library devoted to young writers and artists. Art celebrities visit often to support your work.",
+        "type": "dream",
+        "icon": "a_kids_library",
+        "cost": 175000
+      },
+      {
+        "cost": 225000,
+        "id": 29,
+        "copy1": "+$7,000/mo Cash flow 37% Cash-on-cash return",
+        "title": "PIZZA FRANCHISE",
+        "cashflow": 7000,
+        "type": "investment",
+        "copy2": "3 LOCATIONS",
+        "icon": "pizza_franchise"
+      },
+      {
+        "id": 28,
+        "title": "GOLF AROUND THE WORLD",
+        "copy1": "You take 3 friends on a first-class, 5-star resort tour to play the 50 best golf courses in the world.",
+        "type": "dream",
+        "icon": "golf_around_the_world",
+        "cost": 150000
+      },
+      {
+        "cost": 300000,
+        "id": 27,
+        "title": "60 UNIT APARTMENT BUILDING",
+        "copy1": "+$8,000/mo Cash flow 32% Cash-on-cash return",
+        "cashflow": 8000,
+        "type": "investment",
+        "icon": "60_unit_apartment_building"
+      },
+      {
+        "id": 26,
+        "title": "BE A 'JET-SETTER'",
+        "copy1": "Have your own personal jet available for one year, to whisk you away whenever and wherever your heart desires.",
+        "type": "dream",
+        "icon": "be_a__jet_setter_",
+        "cost": 250000
+      },
+      {
+        "id": 24,
+        "title": "SAVE THE OCEAN MAMMALS",
+        "copy1": "Fund and be a crew member on a month-long research expedition to protect endangered sea animals.",
+        "type": "dream",
+        "icon": "save_the_ocean_mammals",
+        "cost": 125000
+      }
+    ]
+  }
+}
