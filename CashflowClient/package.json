@@ -1,0 +1,23 @@
+{
+  "name": "cashflow_client",
+  "version": "0.0.1",
+  "description": "Cash Flow Client - Rework.",
+  "author": "Ripezo",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "dropzone": "^4.3.0",
+    "jquery": "^3.1.1",
+    "md5-js": "0.0.3",
+    "phaser": "^2.6.2"
+  }
+}

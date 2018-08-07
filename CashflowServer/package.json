@@ -1,0 +1,13 @@
+{
+  "name": "cashflow_server",
+  "private": true,
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "mongoose": "^4.9.0",
+    "multer": "^1.3.0",
+    "socket.io": "^1.7.3"
+  }
+}
