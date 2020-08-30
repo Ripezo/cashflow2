@@ -21,7 +21,6 @@
     "phaser": "^2.6.2"
   },
   "scripts": {
-    // Your current package.json scripts
     "preinstall": "npx npm-force-resolutions"
   },
   "resolutions": {
